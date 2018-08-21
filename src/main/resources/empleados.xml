@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados>
+	<empleado>
+		<nombre>Johnattan</nombre>
+		<rol>operador</rol>
+	</empleado>
+	<empleado>
+		<nombre>Diego</nombre>
+		<rol>director</rol>
+	</empleado>
+	<empleado>
+		<nombre>Lorena</nombre>
+		<rol>operador</rol>
+	</empleado>
+	<empleado>
+		<nombre>Diana</nombre>
+		<rol>operador</rol>
+	</empleado>
+	<empleado>
+		<nombre>Luis</nombre>
+		<rol>supervisor</rol>
+	</empleado>
+	<empleado>
+		<nombre>Miguel</nombre>
+		<rol>supervisor</rol>
+	</empleado>
+	<empleado>
+		<nombre>Ramiro</nombre>
+		<rol>director</rol>
+	</empleado>
+</empleados>
